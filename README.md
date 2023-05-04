@@ -250,3 +250,6 @@ See [golang/go#21525](https://github.com/golang/go/issues/21525). Calling boring
 call. Note that the results are from 2017 and cgo performance might have improved since then. Depending on you usecase
 this maybe acceptable, or even come unnoticed. Do performance test your app. Of course, if you need it to be
 FIPS compliant you have to accept the hit. 
+
+
+https://github.com/acardace/fips-detect
